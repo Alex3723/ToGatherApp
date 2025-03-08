@@ -1,0 +1,2 @@
+# ToGatherApp
+The app allows users to search and manage events, such as concerts and sports events, based on their location. It provides essential event details and enables easy navigation between different dedicated pages.
